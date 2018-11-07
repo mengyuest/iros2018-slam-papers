@@ -86,36 +86,33 @@ Alejandro Rodriguez-Ramos, Carlos Sampedro, Pascual Campoy [\[video\]](https://v
 
 ### Backend
 
-1. **LDSO Direct Sparse Odometry with Loop Closure**
-2. **Predicting Objective Function Change in Pose-Graph Optimization**
-3. **Scan Similarity-based Pose Graph Construction Method for Graph SLAM**
-4. **Submap-based Pose-graph Visual SLAM A Robust Visual Exploration and Localization System**
-5. **Virtual Occupancy Grid Map for Submap-based Pose Graph SLAM and Planning in 3D Environments**
+1. **LDSO Direct Sparse Odometry with Loop Closure**, Xiang Gao, Rui Wang, Nikolaus Demmel and Daniel Cremers [\[pdf\]](https://arxiv.org/pdf/1808.01111.pdf) [\[code\]](https://github.com/tum-vision/LDSO) [\[video\]](https://vision.in.tum.de/research/vslam/ldso)
+2. **Predicting Objective Function Change in Pose-Graph Optimization**, Fang Bai, Teresa Vidal-Calleja, Shoudong Huang, and Rong Xiong
+3. **Scan Similarity-based Pose Graph Construction Method for Graph SLAM**,Wonsok Yoo, Hanjun Kim, Hyunki Hong, and Beom H. Lee [\[pdf\]](http://s-space.snu.ac.kr/bitstream/10371/140701/1/000000150530.pdf)
+4. **Submap-based Pose-graph Visual SLAM A Robust Visual Exploration and Localization System**, Weinan Chen, Lei Zhu, Yisheng Guan, C. Ronald Kube, Hong Zhang [\[pdf\]](https://arxiv.org/pdf/1807.01012.pdf)
+5. **Virtual Occupancy Grid Map for Submap-based Pose Graph SLAM and Planning in 3D Environments**, Bing-Jui Ho, Paloma Sodhi, Pedro Teixeira, Ming Hsiao, Tushar Kusnur, and Michael Kaess [\[pdf\]](https://www.ri.cmu.edu/wp-content/uploads/2018/09/Ho18iros.pdf)
 
 ### Frontend
-1. **A Combined RGB and Depth Deor for SLAM with Humanoids**
-2. **Good Feature Selection for Least Squares Pose Optimization in VOVSLAM**
-3. **HBST A Hamming Distance embedding Binary Search Tree for Feature-based Visual Place Recognition**
-4. **Keyframe-based Photometric Online Calibration and Color Correction**
-5. **Optimized Contrast Enhancements to Improve Robustness of Visual Tracking in a SLAM Relocalisation Context**
-6. **Robust Camera Pose Estimation via Consensus on Ray Bundle and Vector Field**
-7. **Unit Quaternion-based Parameterization for Point Features in Visual Navigation**
-8. **Perspective Correcting Visual Odometry for Agile MAVs using a_Pixel Processor Array**
+1. **A Combined RGB and Depth Deor for SLAM with Humanoids**, Rasha Sheikh, Stefan Oßwald and Maren Bennewitz [\[pdf\]](https://www.hrl.uni-bonn.de/papers/sheikh18iros.pdf) [\[code\]](https://github.com/ferasha/DLab) 
+2. **Good Feature Selection for Least Squares Pose Optimization in VOVSLAM**, Yipu Zhao and Patricio A. Vela
+3. **HBST A Hamming Distance embedding Binary Search Tree for Feature-based Visual Place Recognition**, Dominik Schlegel and Giorgio Grisetti [\[pdf\]](https://arxiv.org/pdf/1802.09261.pdf) [\[code\]](http://www.gitlab.com/srrg-software/srrg_hbst)
+4. **Keyframe-based Photometric Online Calibration and Color Correction**, Jan Quenzel, Jannis Horn, Sebastian Houben and Sven Behnke [\[pdf\]](https://www.ais.uni-bonn.de/papers/IROS_2018_Quenzel.pdf) [\[video\]](https://www.ais.uni-bonn.de/videos/IROS_2018_photometric_calibration/)
+5. **Optimized Contrast Enhancements to Improve Robustness of Visual Tracking in a SLAM Relocalisation Context**, Xi Wang, Marc Christie, Eric Marchand [\[pdf\]](https://hal.inria.fr/hal-01852003/document)
+6. **Robust Camera Pose Estimation via Consensus on Ray Bundle and Vector Field**, Haoang Li, Ji Zhao, Jean-Charles Bazin, Lei Luo, Junlin Wu and Jian Yao
+7. **Unit Quaternion-based Parameterization for Point Features in Visual Navigation**, James Maley and Guoquan Huang
+8. **Perspective Correcting Visual Odometry for Agile MAVs using a Pixel Processor Array**, Colin Greatwood, Laurie Bose, Thomas Richardson, Walterio Mayol-Cuevas, Jianing Chen, Stephen J. Carey and Piotr Dudek [\[pdf\]](https://drive.google.com/file/d/1SYBrDyg9iC2NhgRyadqyQm6C-lpxfafk/view) [\[video\]](https://events.infovaya.com/presentation?id=35473)
 
 
 ### Deep SLAM
 
-1. **A Variational Feature Encoding Method of 3D Object for Probabilistic Semantic SLAM**
-2. **Bayesian Information Recovery from CNN for Probabilistic Inference**
-3. **DS-SLAM A Semantic Visual SLAM towards Dynamic Environments**
-4. **Fast and Accurate Semantic Mapping through Geometric-based Incremental Segmentation**
-5. **Integrating Deep Semantic Segmentation into 3D Point Cloud Registration**
-6. **Learning monocular visual odometry with dense 3D mapping from dense 3D ﬂow**
-7. **Localization of Classiﬁed Objects in SLAM using Nonparametric Statistics and Clustering**
-8. **Pose Estimation and Map Formation with Spiking Neural Networks towards Neuromorphic SLAM**
-9. **Robust Exploration with Multiple Hypothesis Data Association**
-10. **Semantic Monocular SLAM for Highly Dynamic Environments**
-11. **Unsupervised Odometry and Depth Learning for Endoscopic Capsule_Robots**
-
-
-
+1. **A Variational Feature Encoding Method of 3D Object for Probabilistic Semantic SLAM**, H. W. Yu and B. H. Lee [\[pdf\]](https://arxiv.org/pdf/1808.10180.pdf) 
+2. **Bayesian Information Recovery from CNN for Probabilistic Inference**, Dmitry Kopitkov and Vadim Indelman [\[pdf\]](https://www.researchgate.net/profile/Vadim_Indelman/publication/327704320_Bayesian_Information_Recovery_from_CNN_for_Probabilistic_Inference/links/5ba002d9a6fdccd3cb5ee5d8/Bayesian-Information-Recovery-from-CNN-for-Probabilistic-Inference.pdf)
+3. **DS-SLAM A Semantic Visual SLAM towards Dynamic Environments**, Chao Yu, Zuxin Liu, Xin-Jun Liu, Fugui Xie, Yi Yang, Qi Wei, Qiao Fei [\[pdf\]](https://arxiv.org/pdf/1809.08379.pdf) 
+4. **Fast and Accurate Semantic Mapping through Geometric-based Incremental Segmentation**, Yoshikatsu Nakajima, Keisuke Tateno, Federico Tombari and Hideo Saito [\[pdf\]](https://arxiv.org/pdf/1803.02784.pdf)
+5. **Integrating Deep Semantic Segmentation into 3D Point Cloud Registration**, Anestis Zaganidis, LiSun, Tom Duckett, and Grzegorz Cielniak [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8387438)
+6. **Learning monocular visual odometry with dense 3D mapping from dense 3D ﬂow**, Cheng Zhao, Li Sun, Pulak Purkait, Tom Duckett and Rustam Stolkin [\[pdf\]](https://arxiv.org/pdf/1803.02286.pdf)
+7. **Localization of Classiﬁed Objects in SLAM using Nonparametric Statistics and Clustering**, Asif Iqbal 1 and Nicholas R. Gans 
+8. **Pose Estimation and Map Formation with Spiking Neural Networks towards Neuromorphic SLAM**, Raphaela Kreiser, Panin Pienroj, Alpha Renner, and Yulia Sandamirskaya [\[pdf\]](http://www.sandamirskaya.eu/resources/KreiserEtAl_2018iros.pdf)
+9. **Robust Exploration with Multiple Hypothesis Data Association**, Jinkun Wang and Brendan Englot [\[pdf\]](http://personal.stevens.edu/~benglot/Wang_Englot_IROS_2018_Preprint.pdf)
+10. **Semantic Monocular SLAM for Highly Dynamic Environments**, Nikolas Brasch, Aljaz Bozic, Joe Lallemand, Federico Tombari
+11. **Unsupervised Odometry and Depth Learning for Endoscopic Capsule Robots**, Mehmet Turan, Evin Pinar Ornek, Nail Ibrahimli, Can Giracoglu, Yasin Almalioglu,Mehmet Fatih Yanik, and Metin Sitti [\[pdf\]](https://arxiv.org/pdf/1803.01047.pdf)
