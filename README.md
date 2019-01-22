@@ -6,7 +6,7 @@
 This repository contains SLAM papers from IROS2018. Thanks for the efforts from [**PaoPaoRobot**](http://paopaorobot.org/)
 
 ## Reference
-**[\[泡泡前沿追踪\]跟踪SLAM前沿动态系列之IROS2018](https://m.sohu.com/a/271865364_715754?scm=0.0.0.0&spm=smwp.media.fd-s.3.15408367012554EL1uYK)**
+**[\[泡泡前沿追踪\]跟踪SLAM前沿动态系列之IROS2018](https://mp.weixin.qq.com/s/ozj-Lq3o2Z2M9siXRbnpVw)**
 
 ## Fields
 ### Visual Inertial Odometry
@@ -67,7 +67,7 @@ Weiliang Xu, Hesheng Wang and Howie Choset
 
 ### SLAM System
 1. **ArthroSLAM: multi-sensor robust visual localization for minimally invasive orthopedic surgery**, Andres Marmol, Peter Corke, Thierry Peynot
-2. **DynaSLAM Tracking, Mapping and Inpainting in Dynamic Scenes**, Berta Bescos, José M. Fácil, Javier Civera and José Neira [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421015) [\[video\]](https://youtu.be/EabI goFmQs)
+2. **DynaSLAM Tracking, Mapping and Inpainting in Dynamic Scenes**, Berta Bescos, José M. Fácil, Javier Civera and José Neira [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421015) [\[video\]](https://youtu.be/EabI\_goFmQs)
 3. **Improving Repeatability of Experiments by Automatic Evaluation of SLAM Algorithms**, Francesco Amigoni, Valerio Castelli, and Matteo Luperto [\[code\]](https://github.com/AIRLab-POLIMI/predictivebenchmarking)
 4. **Indoor Mapping and Localization for Pedestrians using Opportunistic Sensing with Smartphones**, Qing Liang, Lujia Wang, Youfu Li and Ming Liu [\[video\]](https://www.youtube.com/watch?v=kQa3SwFiaAY)
 5. **MIS-SLAM Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing**, Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake [\[pdf\]](https://arxiv.org/pdf/1803.02009.pdf)
